@@ -10,11 +10,13 @@ This is a text editor created using HTML, CSS, and JavaScript for the Code in th
 
 ## Screenshots
 ![Screenshot](https://github.com/Nachiket1904/Code-in-dark-text-editor/blob/d1cfcb5e37b64262a04a4cf20c6440ff1539ccf2/img/CODEINTHE%20DARK1.png)
-![Screenshot](img/CODEINTHE DARK1.png)
+
 ## Getting Started
 ### for users
-To use the text editor, simply open the index.html file in your web browser. You can create a new file by clicking the "New File" button, and open an existing file by clicking the "Open File" button. To save a file, click the "Save File" button.
+To use the text editor, simply open the index.html file in your web browser. then you can write your details after filling all detail you can write code.
 
-To use the syntax highlighting and auto-complete features, simply start typing in the editor. The text editor will automatically highlight syntax and provide suggestions for auto-complete.
-### for Host users
-To search for a specific text, click the "Find" button and enter the text you want to search for. To replace text, click the "Replace" button and enter the text you want to replace and the replacement text.
+### Developing
+to use it for judge or hosting make following changes in html file.
+* To check response on the editor on excel go to the html file.
+(https://github.com/levinunnink/html-form-to-google-sheet)
+
