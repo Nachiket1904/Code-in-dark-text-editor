@@ -18,5 +18,6 @@ To use the text editor, simply open the index.html file in your web browser. the
 ### Developing
 to use it for judge or hosting make following changes in html file.
 * To check response on the editor on excel go to the html file.
+* follw the instruction in the given link and the link is generate by this is add in form tag action attributes in the HTML file
 (https://github.com/levinunnink/html-form-to-google-sheet)
 
